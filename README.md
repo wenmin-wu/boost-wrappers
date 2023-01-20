@@ -1,2 +1,2 @@
 # boost-wrappers
-Wrappers to broadcast lightgbm, xgboost, and catboost models and predict on spark
+Wrappers for broadcasting lightgbm, xgboost, and catboost models and predict on spark
